@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                      <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="ITC1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ITC2" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ITC3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="ITC4" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="ITCFG" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="CP1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="CP2" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="CP3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="CP4" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="CP1FG" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="34" pref="34" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="UTS1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="UTS2" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="UTS3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="UTS4" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="UTSFG" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="97" max="-2" attributes="0"/>
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="NSTP1" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="NSTP2" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="NSTP3" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="NSTP4" min="-2" pref="51" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="TCW1" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="TCW2" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="TCW3" min="-2" pref="51" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="TCW4" min="-2" pref="51" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="97" max="-2" attributes="0"/>
+                                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="TCWFG" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="NSTPFG" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="116" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="Ent1" min="-2" pref="51" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Ent2" min="-2" pref="51" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Ent3" min="-2" pref="51" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Ent4" min="-2" pref="51" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="EntFG" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="103" max="-2" attributes="0"/>
+                              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="96" max="-2" attributes="0"/>
+                              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="MMW1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="MMW2" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="MMW3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="MMW4" min="-2" pref="51" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Eut1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Eut2" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Eut3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Eut4" min="-2" pref="51" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="PE1" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="PE2" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="PE3" min="-2" pref="51" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="PE4" min="-2" pref="51" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="MMWFG" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="EutFG" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="PEFG" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jButton1" alignment="1" min="-2" pref="133" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="Eut1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Eut2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Eut3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Eut4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="MMW1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="MMW2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="MMW3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="MMW4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="MMWFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="PE1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="PE2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="PE3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="PE4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="PEFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="EutFG" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="Ent1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ent2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ent3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="Ent4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="EntFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="CP1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CP2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CP3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CP4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="CP1FG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ITC1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ITC2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ITC3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ITC4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="ITCFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="NSTP1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="NSTP2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="NSTP3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="NSTP4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="NSTPFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="TCW1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TCW2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TCW3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TCW4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TCWFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="UTS1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="UTS2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="UTS3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="UTS4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="UTSFG" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" pref="40" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+              <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="117" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Computer Programming 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="CP1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="CP2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="CP3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="CP4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Introduction to Computing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ITC1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ITC2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ITC3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ITC4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NSTP 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="NSTP1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="NSTP2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="NSTP3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="NSTP4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TCW"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TCW1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TCW2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TCW3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TCW4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="UTS1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="UTS2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="UTS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="UTS3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="UTS4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eut1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eut2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Euthenics"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eut3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Eut4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MMW4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MMW3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MMW2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MMW1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MMW"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="PE2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="PE1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="PE3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="PE4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ent4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ent3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Entrep"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ent2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Ent1">
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Calculate GWA"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+    </Component>
+    <Component class="javax.swing.JLabel" name="CP1FG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ITCFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="TCWFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="NSTPFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UTSFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="EutFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="MMWFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="PEFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="EntFG">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Final Grade: "/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
